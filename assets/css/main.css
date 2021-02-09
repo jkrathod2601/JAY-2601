@@ -11,17 +11,17 @@
 
 
 
-.button_container {
+.button_container2 {
   position: absolute;
-  left: 50%;
+  left: 60%;
   right: 0;
-  top: 170%;
+  top: 32.5%;
   
 }
 
-.button_container2{
+.button_container{
 	position: absolute;
-	left: 0;
+	left: 60%;
 	right: 0;
 	top: 170%;
 	
